@@ -9,7 +9,6 @@ const ASSETS = [
   './manifest.webmanifest',
   'vendor/react.js',
   'vendor/react-dom.js',
-  'vendor/babel.js',
   'https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Spectral:ital,wght@0,300;0,400;1,300;1,400&family=Inter:wght@400;500&display=swap'
 ];
 
