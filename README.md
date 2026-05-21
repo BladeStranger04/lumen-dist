@@ -1,97 +1,95 @@
-﻿# LUMEN
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vincere-mori/lumen-dist/gh-pages/icons/icon-512.png" alt="Lumen app icon" width="140" />
 
-A personal discipline tracker built on faith, habit, and scripture.
+  <h1>Lumen</h1>
 
-[![Releases](https://img.shields.io/github/v/release/vincere-mori/lumen-dist?style=flat-square&color=c9a227&label=Download)](https://github.com/vincere-mori/lumen-dist/releases/latest)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-c9a227?style=flat-square&logo=github)](https://vincere-mori.github.io/lumen-dist)
-[![License](https://img.shields.io/badge/License-MIT-5a4e38?style=flat-square)](#license)
+  <p><em>трекер дел, привычек и духовной дисциплины</em></p>
 
-> [Русская версия ниже](#русская-версия)
-
----
-
-## What is this?
-
-LUMEN is a habit and task tracker built for people who want a quiet, intentional space to show up every day. No streaks for the sake of streaks. No dopamine loops. No accounts, no servers, no tracking — every byte of data lives on your machine.
-
-## Download
-
-Grab the current release from [Releases](https://github.com/vincere-mori/lumen-dist/releases/latest):
-
-| Platform | File |
-|----------|------|
-| Windows  | `.msi` or `.exe` |
-| macOS    | `.dmg` (universal) |
-| Linux    | `.AppImage`, `.deb`, `.rpm` |
-| Android  | `.apk` |
-
-Latest Android build: [`LUMEN-v1.0.9-android.apk`](https://github.com/vincere-mori/lumen-dist/releases/download/v1.0.9/LUMEN-v1.0.9-android.apk).
-
-Install it like any other app. Works fully offline after the first launch.
-
-**Web / PWA** — open [vincere-mori.github.io/lumen-dist](https://vincere-mori.github.io/lumen-dist) in any modern browser. Chrome and Edge will offer to install it as an app — once installed, it runs in its own window and works offline.
-
-## What's inside
-
-- **Tasks** — daily to-dos with difficulty (easy / medium / hard), priority stars, focus timer with built-in Pomodoro
-- **Habits** — daily check-ins, streak counter, 5-week heatmap
-- **Chronicle** — your stats: streaks, coins, focus minutes, achievements
-- **Rewards** — spend earned coins on rest, joy, almsgiving, or a Sabbath day
-- **Scripture** — verse of the day, Lectio Divina (4 stages of meditation), prayer journal that resets every night
-- **Sunday Review** — once a week, look back
-- **Themes** — time-of-day palettes plus Snow Skete, Byzantine Cinnabar, and Olive Vigil
-
-Dark, candlelit aesthetic. Cinzel & Spectral typography. Built to feel like a missal, not an app.
-
-## Support the author
-
-If LUMEN resonates and you'd like to support continued development:
-
-- Tip jar — [pay.cloudtips.ru/p/6c077990](https://pay.cloudtips.ru/p/6c077990)
-- Boosty — [boosty.to/jsu/donate](https://boosty.to/jsu/donate)
-
-Every bit goes back into the next project.
-
-## License
-
-MIT — see release notes. Source code is kept in a private repository; binaries published here are free to use, redistribute, and modify under the MIT terms.
+  <p>
+    <a href="https://vincere-mori.github.io/lumen-dist/">
+      <img src="https://img.shields.io/badge/open%20app-c9a227?style=for-the-badge&logo=githubpages&logoColor=white" alt="open app" />
+    </a>
+    <a href="https://github.com/vincere-mori/lumen-dist/releases/latest">
+      <img src="https://img.shields.io/badge/download-181717?style=for-the-badge&logo=github&logoColor=white" alt="download" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Русская версия
+## Кратко
 
-LUMEN — трекер дел, привычек и духовной дисциплины. Никаких аккаунтов и серверов: все данные хранятся локально, приложение работает офлайн.
+Lumen — трекер дел, привычек и духовной дисциплины.
 
-### Скачать
+Никаких аккаунтов, серверов, рекламы. Все данные хранятся локально. Открой, отметь, прочти стих, двигайся дальше.
 
-Актуальные сборки лежат в [Releases](https://github.com/vincere-mori/lumen-dist/releases/latest):
+## Скачать
 
-| Платформа | Файл |
-|-----------|------|
-| Windows   | `.msi` или `.exe` |
-| macOS     | `.dmg` universal |
-| Linux     | `.AppImage`, `.deb`, `.rpm` |
-| Android   | `.apk` |
+Актуальные сборки в [Releases](https://github.com/vincere-mori/lumen-dist/releases/latest).
 
-Последний Android APK: [`LUMEN-v1.0.9-android.apk`](https://github.com/vincere-mori/lumen-dist/releases/download/v1.0.9/LUMEN-v1.0.9-android.apk).
+Какой файл выбрать:
 
-Веб-версия: [vincere-mori.github.io/lumen-dist](https://vincere-mori.github.io/lumen-dist) — открой в Chrome/Edge, можно установить как PWA и пользоваться офлайн.
+- Windows: `.exe` или `.msi`
+- macOS: `.dmg`
+- Linux: `.AppImage`, `.deb` или `.rpm`
+- Android: `.apk`
 
-### Что внутри
+Веб-версия: [vincere-mori.github.io/lumen-dist](https://vincere-mori.github.io/lumen-dist/)
 
-- **Дела** — задачи с приоритетом и сложностью, фокус-таймер (Помодоро)
-- **Привычки** — серии, тепловая карта по неделям
-- **Хроники** — серии, монеты, минуты фокуса, достижения
-- **Обеты** — обмен накопленных монет на отдых, радость, милостыню, Субботу
-- **Писание** — стих дня, Lectio Divina, молитвенный журнал, очищающийся каждую ночь
-- **Воскресный обзор** — еженедельная остановка и взгляд назад
-- **Темы** — палитры по времени суток, плюс «Снежный скит», «Византийская киноварь» и «Оливковая всенощная»
+## Что внутри
 
-Тёмная палитра, готическое золото, шрифт Cinzel. Задумано ближе к келье, чем к ленте.
+- Дела — приоритет, сложность, фокус-таймер с Помодоро
+- Привычки — серии, тепловая карта по неделям
+- Хроники — монеты, достижения, минуты фокуса
+- Обеты — монеты в обмен на отдых, радость, милостыню, Субботу
+- Писание — стих дня, Lectio Divina, молитвенный журнал
+- Воскресный обзор — раз в неделю, взгляд назад
+- Темы — тёмные палитры по времени суток
 
-### Поддержать автора
+---
 
-- Чаевые — [pay.cloudtips.ru/p/6c077990](https://pay.cloudtips.ru/p/6c077990)
-- Boosty — [boosty.to/jsu/donate](https://boosty.to/jsu/donate)
+## English version
 
-> «Ищите, и найдёте.» — Мф 7:7
+Lumen is a habit and task tracker built around faith, discipline, and daily scripture.
+
+No accounts, no ads, no syncing. Everything stays on your device.
+
+## Downloads
+
+Latest release — [Releases](https://github.com/vincere-mori/lumen-dist/releases/latest):
+
+- Windows: `.exe` or `.msi`
+- macOS: `.dmg` (universal)
+- Linux: `.AppImage`, `.deb`, `.rpm`
+- Android: `.apk`
+
+Web version: [vincere-mori.github.io/lumen-dist](https://vincere-mori.github.io/lumen-dist/)
+
+## Features
+
+- Tasks with difficulty and priority, focus timer with Pomodoro
+- Habits with streaks and a 5-week heatmap
+- Chronicle: coins, achievements, focus minutes
+- Rewards: spend coins on rest, joy, almsgiving, a Sabbath day
+- Scripture: verse of the day, Lectio Divina, prayer journal
+- Sunday Review: once a week, look back
+- Themes: time-of-day palettes, Snow Skete, Byzantine Cinnabar, Olive Vigil
+
+Dark aesthetic. Cinzel & Spectral. Quiet by design.
+
+---
+
+## Author
+
+Made by [vincere-mori](https://github.com/vincere-mori).
+
+Support the project:
+
+<p>
+  <a href="https://boosty.to/jsu/donate">
+    <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty" />
+  </a>
+  <a href="https://pay.cloudtips.ru/p/6c077990">
+    <img src="https://img.shields.io/badge/Cloudtips-000000?style=for-the-badge" alt="Cloudtips" />
+  </a>
+</p>
