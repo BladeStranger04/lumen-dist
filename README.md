@@ -14,6 +14,10 @@
       <img src="https://img.shields.io/badge/download-latest-2f2412?style=for-the-badge&logo=github&logoColor=white" alt="download latest" />
     </a>
   </p>
+
+  <p>
+    <a href="#english-version">English version</a>
+  </p>
 </div>
 
 <p align="center">
@@ -55,11 +59,36 @@ Lumen помогает держать день в порядке без акка
   <img src="./screenshots/screenshot_loading.png" alt="Lumen loading" width="31%" />
 </p>
 
-## English
+<a id="english-version"></a>
 
-Lumen is a local-first discipline tracker built around tasks, habits, focus and daily scripture. No accounts, no ads, no cloud sync.
+## English version
 
-Open the [web app](https://vincere-mori.github.io/lumen/) or download the latest build from [Releases](https://github.com/vincere-mori/lumen/releases/latest).
+Lumen is a local-first discipline tracker built around tasks, habits, focus and daily scripture.
+
+It is made for a simple daily rhythm: choose what matters, keep your habits visible, start a focus session, read scripture, and review the week without turning productivity into another feed.
+
+No accounts, no ads, no cloud sync. Your data stays on your device.
+
+## Download
+
+| Platform | Build |
+| --- | --- |
+| Windows | [Setup .exe](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen_1.0.9_x64-setup.exe) / [MSI](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen_1.0.9_x64_en-US.msi) |
+| macOS | [DMG](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen_1.0.9_universal.dmg) |
+| Linux | [AppImage](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen_1.0.9_amd64.AppImage) / [DEB](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen_1.0.9_amd64.deb) / [RPM](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/Lumen-1.0.9-1.x86_64.rpm) |
+| Android | [APK](https://github.com/vincere-mori/lumen/releases/download/v1.0.9/LUMEN-v1.0.9-android.apk) |
+
+Web app: [vincere-mori.github.io/lumen](https://vincere-mori.github.io/lumen/)
+
+## Features
+
+- tasks with priority, difficulty and a focus timer
+- habits with streaks and a weekly heatmap
+- chronicle with coins, achievements and focus minutes
+- rewards for rest, joy, almsgiving and Sabbath
+- scripture: verse of the day, Lectio Divina and prayer journal
+- Sunday review
+- dark time-of-day themes
 
 ## Links
 
